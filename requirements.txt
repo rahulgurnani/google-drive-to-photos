@@ -1,0 +1,7 @@
+google-api-python-client>=1.7.11
+google-auth-httplib2>=0.0.3
+google-auth-oauthlib>=0.4.0
+google-auth>=1.6.3 
+Pillow>=6.1.0
+requests>=2.22.0
+filetype>=1.0.5
